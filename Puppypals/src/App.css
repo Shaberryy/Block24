@@ -40,3 +40,29 @@
 .read-the-docs {
   color: #888;
 }
+/* .pupLogo{
+
+  margin-top: auto;
+} */
+p{
+  border-radius: 10px;
+  background-color: rgb(27, 36, 62);
+}
+p:hover{
+  color: rgb(35, 47, 59);
+  background-color: rgb(86, 146, 189);
+}
+h2{
+    border-radius: 10px;
+  background-color: rgb(75, 90, 134);
+}
+li{
+  border-radius: 10px;
+  width: 80%;
+  background-color: rgb(75, 90, 134);
+}
+/* marker{
+  
+  border-radius: 10px;
+  background-color: rgb(75, 90, 134);
+} */
